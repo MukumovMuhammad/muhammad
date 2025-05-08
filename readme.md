@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Muhammad+%F0%9F%91%8B;%7CAndroid+Developer+%7C+Game+Maker+%7C+Tech+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Muhammad+%F0%9F%91%8B;Android+Developer+%7C+Game+Maker" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">📱 Android Dev | 🎮 Game Designer (Godot) | 🛠 System Explorer | 🌐 Web Curious</h3>
