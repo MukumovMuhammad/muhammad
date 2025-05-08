@@ -110,17 +110,17 @@ $ tools --native
   <img
     src="https://raw.githubusercontent.com/MukumovMuhammad/MukumovMuhammad/output/github-contribution-grid-snake-dark.svg"
     alt="Contribution Snake"
-    width="600"
+    width="800"
   />
 
-  <!-- Trophy Cup -->
+  <!-- Trophy Cup 
   <img
     src="https://github-profile-trophy.vercel.app/?username=MukumovMuhammad&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"
     alt="Trophy Cup"
-    width="300"
+    width="1000"
   />
 </div>
-
+-->
 
 <!-- 🌌----------------------------------------🌌 -->
 
