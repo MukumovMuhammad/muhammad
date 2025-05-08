@@ -39,41 +39,21 @@ $ tools --native
 <!-- 🌌----------------------------------------🌌 -->
 ## 🚀 Dynamic Badges & Widgets
 
-<p align="center">
-  <!-- Visitor Count -->
-  <img
-    src="https://visitor-badge.glitch.me/badge?page_id=MukumovMuhammad&label=Visitors&color=green"
-    alt="Visitor Count"
-  />
 
-  <!-- GitHub Followers -->
-  <a href="https://github.com/MukumovMuhammad?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/MukumovMuhammad?label=Followers&style=social&color=blue"
-      alt="GitHub Followers"
-    />
-  </a>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdsb3NlaWx6eDc4aXR0YWNpMmJ6dWI1c2hrNDBxYWdoaTRrd3hxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PkGLJIKYcgCYrxdpks/giphy.gif" width="30px" height="30px" 
+ align = "absmiddle"/> <b> Github Stats </b>
 
-  <!-- GitHub Stars -->
-  <a href="https://github.com/MukumovMuhammad?tab=stargazers">
-    <img
-      src="https://img.shields.io/github/stars/MukumovMuhammad?label=Stars&style=social&color=yellow"
-      alt="GitHub Stars"
-    />
-  </a>
+<div align="center">
 
-  <!-- Commit Activity (last year) -->
-  <img
-    src="https://img.shields.io/github/commit-activity/y/MukumovMuhammad?label=Commits&style=for-the-badge&color=purple"
-    alt="Commit Activity"
-  />
-
-  <!-- Top Languages -->
-  <img
-    src="https://img.shields.io/github/languages/top/MukumovMuhammad?label=Top%20Langs&style=for-the-badge&color=orange"
-    alt="Top Languages"
-  />
-</p>
+  <!-- GitHub Stats Row -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukumovMuhammad&theme=radical&hide_border=true" style="max-width: 70%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukumovMuhammad&langs_count=10&layout=compact&theme=radical" style="max-width: 48%;" />
+  </div>
+  <br/>
+  <!-- GitHub Streak -->
+    <img src="https://github-readme-stats.vercel.app/api?username=MukumovMuhammad&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" style="max-width: 48%;"/>
+</div>
 
 
 
