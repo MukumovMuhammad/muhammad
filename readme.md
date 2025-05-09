@@ -212,6 +212,6 @@ Oh wait a minute, I have Instagram! [Here it is](https://www.instagram.com/mukum
 <!-- 🌌----------------------------------------🌌 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0d1117,1f1f1f&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
 </p>
 ```
