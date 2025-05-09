@@ -111,6 +111,23 @@ $ tools --native
 
 <!-- 🌌----------------------------------------🌌 -->
 
+## 📧 Contact Frequencies
+<p align="center">
+  <a href="mailto:muhammad.bw.03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/MMV_bw"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://github.com/MukumovMuhammad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-mukumov-067a37266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+What? Searching for my any other social sites? Well, I’m sorry I don't have anything else!  
+I don’t have WeChat, Twitter (oh sorry, I mean X), or Instagram!  
+Oh wait a minute, I have Instagram! [Here it is](https://www.instagram.com/mukumov_muhammad/), but I don’t use it much so don’t expect me to answer there. 😅
+
+
+<!-- 🌌----------------------------------------🌌 -->
+
 ## 🎉 Fun Facts & Easter Eggs
 
 > *“All we have to decide is what to do with the time that is given us.”*  
@@ -176,22 +193,6 @@ while (alive) {
 
 
 
-<!-- 🌌----------------------------------------🌌 -->
-
-## 📧 Contact Frequencies
-<p align="center">
-  <a href="mailto:muhammad.bw.03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/MMV_bw"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://github.com/MukumovMuhammad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-mukumov-067a37266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-What? Searching for my any other social sites? Well, I’m sorry I don't have anything else!  
-I don’t have WeChat, Twitter (oh sorry, I mean X), or Instagram!  
-Oh wait a minute, I have Instagram! [Here it is](https://www.instagram.com/mukumov_muhammad/), but I don’t use it much so don’t expect me to answer there. 😅
-
 
 <!-- 🌌----------------------------------------🌌 -->
 
@@ -214,4 +215,4 @@ Oh wait a minute, I have Instagram! [Here it is](https://www.instagram.com/mukum
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
 </p>
-```
+
