@@ -173,8 +173,8 @@ while (alive) {
 
 ### ⚽ & 🌐 Off-Topic Tidbits
 
-- ⚽ Not big on football, but I’ll cheer if you rope me in!  
-- 🌍 Well, if not football, I'm into geography and learning about different cultures — thanks to the Geography Now channel, I’ve learned a lot about other countries and nationalities!
+- ⚽ Not fun of football, but I’ll cheer if you rope me in!  
+- 🌍 Well, I'm into geography and learning about different cultures — thanks to the Geography Now channel, I’ve learned a lot about other countries and nationalities!
 - 🪐 Obsessed with space & astronomy—my side projects often orbit cosmic themes.
 - ⚔️ I’m fascinated by **sword fighting** and hope to master it someday with real lessons! 
 
