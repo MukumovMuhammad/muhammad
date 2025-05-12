@@ -166,7 +166,7 @@ while (alive) {
 ### 🎧 My Soundtrack
 
 - 🎵 I don’t usually listen to music—**AudioBooks** are my go-to on drives or jogs.
-- 🎧 Well, currently I’m listening to Rahira Revelations — such an amazing story!
+- 🎧 Well, currently I’m listening to Riyria Revelations — such an amazing story!
  
 
 ---
