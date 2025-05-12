@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6vGYUpbjm9PXO/giphy.gif" width="600" alt="Starfield" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNyeWprdDRjbHB6cG11M2xxZGpvdmdlODR5eHFlZDR3ZXJkNTcxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="600" alt="Starfield" />
 </p>
 
 <!-- 🌌----------------------------------------🌌 -->
