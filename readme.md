@@ -30,7 +30,7 @@ $ languages --spoken
 - English
 - Korean
 $ tools --native
-- Kotlin  C++  Python  CSS  JS  GDScript
+- Kotlin  C++  Python  JS  GDScript
 ```
 
 <!-- 🌌----------------------------------------🌌 -->
