@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=500&center=true&vCenter=true&width=650&lines=🚀+Welcome+to+MM's+Galactic+Hub...;👨‍🚀+Android+Developer in Kotlin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=500&center=true&vCenter=true&width=650&lines=🚀+Welcome+to+MM's+Galactic+Hub...;👨‍🚀+Android+Developer+in+Kotlin" alt="Typing SVG" />
 </p>
 
 <p align="center">
